@@ -1,0 +1,28 @@
+#divPadre{
+    background-color: #fff;
+    border: solid 1px black;
+}
+
+#div1{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border:solid 3px black;
+    text-align:center;
+}
+
+#div2{
+    background-color:blueviolet;
+    height: 100px;
+    width: 100px;
+    border:solid 3px black;
+    text-align:center;
+}
+
+#div3{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border:solid 3px black;
+    text-align:center;
+}
